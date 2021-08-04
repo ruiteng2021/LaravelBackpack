@@ -1,0 +1,3 @@
+laravel new project
+composer require backpack/crud:"4.1.*"
+php artisan backpack:install
